@@ -1,0 +1,24 @@
+{
+  "name": "pixel-background",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shurmek/pixel-background.git"
+  },
+  "scripts": {
+    "start": "esrun scripts/run.ts",
+    "build": "esrun scripts/build.ts",
+    "build:watch": "esrun scripts/watch.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shurmek/pixel-background/issues"
+  },
+  "homepage": "https://github.com/shurmek/pixel-background#readme",
+  "devDependencies": {
+    "esbuild": "^0.17.5"
+  }
+}
